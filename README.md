@@ -1,6 +1,6 @@
 # Miguel Hernández Liebano
 
- ([https://raw.githubusercontent.com/mhliebano/mhliebano/master/assets/me.jpg](https://github.com/mhliebano/mhliebano/blob/main/assets/me.jpg))
+ [me](https://github.com/mhliebano/mhliebano/blob/main/assets/me.jpg)
 
 <!--
 **mhliebano/mhliebano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
